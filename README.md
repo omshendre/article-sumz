@@ -38,4 +38,4 @@ To install and run the project locally, follow these steps:
 ## Sequence Diagram
 ![Sequence Diagram](article-sumz.png)
 
-Replace `path_to_sequence_diagram.png` with the actual path to your sequence diagram image.
+
