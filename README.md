@@ -31,7 +31,7 @@ To install and run the project locally, follow these steps:
 
 ## Usage
 1. Open the application in your browser.
-2. Enter the URL or text of the article you wish to summarize.
+2. Enter the URL of the article you wish to summarize.
 3. Click the "Summarize" button to get the summary.
 4. View the summarized content on the same page.
 
